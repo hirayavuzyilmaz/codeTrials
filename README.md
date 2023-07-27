@@ -1,2 +1,2 @@
-# hra
+# codeTrials
 Setting Up Git
